@@ -1,5 +1,5 @@
 <p align="center">
-<a href="http://www.sdsc.edu/ScienceWomen/meitner.html">
+<a href="http://en.wikipedia.org/wiki/Lise_Meitner">
 <img src="https://raw.github.com/aphyr/meitner/master/doc/meitner.jpg" height="400px" alt="Lise Meitner" />
 </a>
 </p>
