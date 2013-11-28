@@ -1,10 +1,10 @@
-# Meitner
-
 <p align="center">
 <a href="http://www.sdsc.edu/ScienceWomen/meitner.html">
-<img src="https://raw.github.com/aphyr/meitner/master/doc/meitner.jpg" height="200px" alt="Lise Meitner" />
+<img src="https://raw.github.com/aphyr/meitner/master/doc/meitner.jpg" height="400px" alt="Lise Meitner" />
 </a>
 </p>
+
+# Meitner
 
 Meitner infers the static dependency graph of Clojure functions, macros, and
 other vars through syntactic analysis of their source. Meitner uses Riddley for
