@@ -1,7 +1,11 @@
 # Meitner
 
+<p align="center">
+<a href="http://www.sdsc.edu/ScienceWomen/meitner.html">
 <img src="https://raw.github.com/aphyr/meitner/master/doc/meitner.jpg"
-style="width: 100%" />
+style="width: 33%" alt="Lise Meitner" />
+</a>
+</p>
 
 ## Usage
 
