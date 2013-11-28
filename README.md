@@ -2,18 +2,19 @@
 
 <p align="center">
 <a href="http://www.sdsc.edu/ScienceWomen/meitner.html">
-<img src="https://raw.github.com/aphyr/meitner/master/doc/meitner.jpg"
-style="width: 33%" alt="Lise Meitner" />
+<img src="https://raw.github.com/aphyr/meitner/master/doc/meitner.jpg" height="200px" alt="Lise Meitner" />
 </a>
 </p>
-
-## Usage
 
 Meitner infers the static dependency graph of Clojure functions, macros, and
 other vars through syntactic analysis of their source. Meitner uses Riddley for
 macroexpansion and analysis of lexical scope. Relies on
 `clojure.repl/source-fn`, so I'm not sure how to use it outside the repl right
 now.
+
+## Install
+
+[Via Clojars](https://clojars.org/meitner)
 
 ## Try me
 
